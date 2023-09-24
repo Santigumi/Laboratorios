@@ -1,0 +1,19 @@
+ 
+.carta--uno {
+    display: flex;
+    justify-content: space-between;
+    align-items: end;
+    color: white;
+    width: 10rem;
+    height: 10rem;
+    font-size:medium;
+    font-family: Arial, Helvetica, sans-serif;
+    padding: 5rem;
+}
+
+.contenedor {
+    display: flex;
+    align-items: space-be¿etween;
+    background-color: aqua;
+
+}
